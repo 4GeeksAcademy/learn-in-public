@@ -1,6 +1,6 @@
  # Learn In Public
 
-<p align="center"><img src="/preview.png" height="400" /></p>  
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>  
  
 
 It is time to start your first GitHub contribution. Git offers a way of pushing code into a repository without owning it, or even being invited to it, it is called `Pull Request` and this exercise's main objective is to create your first `Pull Request` ever.
