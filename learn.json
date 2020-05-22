@@ -1,10 +1,13 @@
 {
-	"title" : "Student External Profile",
-	"slug" : "student-external-profile",
-    "visibility": "internal",
+	"title" : "Learn in Public",
+	"slug" : "learn-in-public",
+    	"visibility": "internal",
 	"status": "published",
-	"solution": "",
+	"preview": "https://github.com/4GeeksAcademy/learn-in-public/blob/master/preview.jpg?raw=true",
 	"duration" : 1,
+	"translations": ["us","es"],
+	"technologies": ["markdown", "yml"],
+	"synxtax": "markdown",
 	"description" : "Build the first version of your student external profile that recruiters will see",
 	"talents": [
 		{ "badge": "fully-committed", "points": 5 },
