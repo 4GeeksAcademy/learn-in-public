@@ -1,4 +1,4 @@
- # Student External Profile
+ # Learn In Public
 
 <p align="center"><img src="/preview.png" height="400" /></p>  
  
