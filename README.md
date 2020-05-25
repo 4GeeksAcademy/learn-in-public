@@ -1,9 +1,9 @@
  # Learn In Public (for introverts and extroverts)
 
-<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
- 
 Contributions are Github's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
 
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
+ 
 ## The Pull Request
 
 Git offers a way of pushing code into a repository without owning it, or even being invited to it, it is called "Pull Request" and you are about to do your first. [Here is a 12min video explaning pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
