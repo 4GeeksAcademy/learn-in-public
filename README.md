@@ -1,22 +1,26 @@
- # Learn In Public
+ # Learn In Public (for introverts and extroverts)
 
-<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>  
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
  
+Contributions are Github's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
 
-It is time to start your first GitHub contribution. Git offers a way of pushing code into a repository without owning it, or even being invited to it, it is called `Pull Request` and this exercise's main objective is to create your first `Pull Request` ever.
+## The Pull Request
+
+Git offers a way of pushing code into a repository without owning it, or even being invited to it, it is called "Pull Request" and you are about to do your first. [Here is a 12min video explaning pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+
+## Your Public Profile
   
-At the same time, you will start building your student profile, one of the most significant accomplishments you can have at the academy because:
-- It will be the first version of your developer portfolio.
-- It will be the first version of your Resume (as a coder).
-- It will give more context to your learning experience: You can see a table of everything you will be learning throughout the course.
+During this project you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
+
+> This will be the first version of your Resume (as a coder).
   
-This `Student Showcase` its still in beta and you are one of the first students to become a contributor. You can find the list of students that have their profile already built on the [FOLLOWING URL](http://sep.4geeksacademy.co/students/), you can also click on the students name to find a beta version of how the student profile looks right now.
+This [Student Showcase](https://sep.4geeksacademy.co/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
-Don't worry about the content of your profile, today its just about the YML and making sure you show up on the [student list](https://sep.4geeksacademy.co/).
+Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.co/), later you can do more updates to your profile.
 
 ## How to build your own profile inside the Student Showcase?
 
-1. Fork [the repository](https://github.com/4GeeksAcademy/student-external-profile/).
+1. Fork [the repository](https://github.com/4GeeksAcademy/About-4Geeks-Academy).
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
   
