@@ -37,7 +37,7 @@ basic_info:
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: https://github.com/japdz83
     
-    twitter: 'japdz83' #optional
+    twitter: '@japdz83' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
@@ -46,7 +46,7 @@ basic_info:
         level: Basic
 
       - idiom: French
-        level: Null
+        level: Basic
 
       - idiom: Spanish
         level: Native
