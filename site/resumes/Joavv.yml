@@ -1,0 +1,21 @@
+template: "online-cv"
+skin: "green"
+
+basic_info:
+  name: Joaquín Vera
+  tagline: Full Stack Developer
+  avatar: profile.png
+
+  email: vera.j.veas@gmail.com
+  phone: 88994224
+  website: placeholder.com
+  linkedin: Joaquin Vera Veas
+  github: Joavv
+  stack-overflow: 13156385/Joaquin Vera Veas
+
+  language:
+    - idiom: Spanish
+      level: Native
+
+    - idiom: English
+      level: Fluent
