@@ -160,40 +160,40 @@ projects:
         link: "https://github.com/francisco-ca/Ig-Photo-Feed"
         tagline: "Learning Html5 and css."
 
-      - title: Tempo
+      - title: Domain generator
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://github.com/francisco-ca/exercise-domain-generator"
+        tagline: "Domain name generator, learning JS"
 
-      - title: Atom
+      - title: Instagram Feed
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://github.com/francisco-ca/exercise-instagram-feed-bootstrap"
+        tagline: "Learning HTML5, CSS and bootstrap tools"
 
-      - title: Delta
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   # optional
+      #   project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     toolset:
-      - name: Python & Django
-        level: 98%
+      # - name: Python & Django
+      #   level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 20%
 
-      - name: Angular
-        level: 98%
+      # - name: Angular
+      #   level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      # - name: Ruby on Rails
+      #   level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      # - name: Sketch & Photoshop
+      #   level: 60%
