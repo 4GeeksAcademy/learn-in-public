@@ -1,0 +1,48 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: Piero Antonucci
+  tagline: Full Stack Developer
+  avatar: piero.jpg
+
+  email: piero.antonucci@gmail.com
+  phone: +56982292977
+  website: google.com
+  linkedin: piero-antonucci-fernández
+  github: pieroantonucci
+  twitter: 'PieroAntonucci'
+  stack-overflow: 
+
+  languages:
+    - idiom: English
+      level: Advanced
+
+    - idiom: Spanish
+      level: Native
+
+education:
+    - school: Instituto O'Higgins
+    - College: Universidad Técnica Federico Santa María
+
+experiences:
+    - Gerente de Proyecto: Staff Chile (2020-actualidad)
+    - Subgerente de Sucursales: Staff Chile (2019-2020)
+    - Asesor de Gerencia: Staff Chile (2018-2019)
+    - Consultor Senior: Dux Partners (2016-2018)
+    - Consultor: Dux Partners (2014- 2016)
+
+projects:
+    - SGS: Diseñar e implementar un CRM para la empresa Staff Chile
+    - Empresa de Repuestos: Diseño de modelo operacional de reposición de inventarios
+
+publications:
+
+skills:
+    - Music: Toco guitarra y canto
+      level: Medium - Advanced (75%)
+
+    - Manualidades: hago muebles como mesas de centro, casas de muñecas, fruteros, etc.
+      level: Medium - Advanced (75%)
+
+ 
