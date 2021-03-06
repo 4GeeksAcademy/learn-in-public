@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/4GeeksAcademy/learn-in-public)
+
  # Learn In Public (for introverts and extroverts)
 
 Contributions are Github's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
