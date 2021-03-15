@@ -1,5 +1,17 @@
-name: "Sergio"
+template: "online-cv"
+skin: "orange"
+
+
+name: Sergio Coto
 occupation: 'Full-Stack student' 
 age: 40
 male: true
 birthday: 1981-02-01
+education: Industrial production engineer
+experiences: Supply Chain Planner, Accreditation, Process Control, Production Supervisor
+projects: None yet
+publications: None
+skills: team working
+
+
+
