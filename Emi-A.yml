@@ -1,0 +1,18 @@
+--- 
+basic_info: 
+  ? "-idiom"
+  : English
+  ? "-level"
+  : Intermedium
+  education: "UNA-System enginner"
+  email: emilyam23@gmail.com
+  github: Emi-A
+  languages: ~
+  linkedin: Emily
+  name: ~
+  phone: 85161295
+  projects: "Describe the projects you've built as a developer."
+  skills: "List your skills with a percentage of expertise."
+  tagline: ~
+skin: orange
+template: online-cv
