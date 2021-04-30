@@ -68,7 +68,8 @@ Your profile should look like the following:
   <a href="https://sep.4geeksacademy.co/sharu725" target="_blank">Wach Live Demo Here</a>
 </p>
 
-## Completing the YML file
+## Completing the 
+file
 
 The YML file it's comprised of 4 major sections:
 ```yml
