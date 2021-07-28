@@ -37,7 +37,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   For example: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
   
   ```
-  Importante: You should test your `YML` syntax here: http://www.yamllint.com/
+  Important: You should test your `YML` syntax here: http://www.yamllint.com/
   ```
 
 4. Commit and push your changes.
