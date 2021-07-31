@@ -12,7 +12,7 @@ Git offers a way of pushing code into a repository without owning it, or even be
   
 During this project you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
 
-> This will be the first version of your Resume (as a coder).
+> This will be the first version of your resume (as a coder).
   
 This [Student Showcase](https://sep.4geeksacademy.co/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
