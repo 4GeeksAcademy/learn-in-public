@@ -1,6 +1,6 @@
  # Perfil externo del estudiante (para introvertidos y extrovertidos)
 
-Las colaboraciones sustentan a Gihub, son su propósito principal. Es hora se que realices tu primera colaboraación en Github.
+Las colaboraciones sustentan a Github, son su propósito principal. Es hora se que realices tu primera colaboraación en Github.
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
  
