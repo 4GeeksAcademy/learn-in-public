@@ -1,19 +1,20 @@
  # Perfil externo del estudiante (para introvertidos y extrovertidos)
 
-Las colaboraciones sustentan a Github, son su propósito principal. Es hora se que realices tu primera colaboraación en Github.
+Las colaboraciones sustentan a Github, son su propósito principal. Es hora de que realices tu primera colaboración en Github.
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
  
 ## Pull Request
 
-Git ofrece una forma de compartir (pushing) código con un repositorio sin ser el dueño, o incluso sin ser invitado a él, se llama **"Pull request"** y estás a punto de hacer tu primera PR (Pull Request). [Aquí hay un video que explica las Pull Requests](https://www.youtube.com/watch?v=xl3nxfbGkzY).
+Git ofrece una forma de compartir (pushing) código con un repositorio sin ser el dueño, o incluso sin ser invitado a él. Esta forma se llama **"Pull request"** y estás a punto de hacer tu primera PR (Pull Request). [Aquí hay un video que explica las Pull Requests](https://www.youtube.com/watch?v=xl3nxfbGkzY).
 ## Tu perfil público
+
   
 Durante este proyecto comenzarás a construir tu perfil profesional y es uno de los logros más significativos que podrás tener en la academia:
 
-> Esta será la primera versión de su CV (como programador).
+> Esta será la primera versión de tu CV (como programador).
   
-Este [Student Showcase ( Lista de perfiles de los estudiantes)](https://sep.4geeksacademy.co/) aún está en versión beta. Ahí puedes encontrar una lista de estudiantes que ya han creado su perfil. También puedes darle clic a los diversos perfiles de estudaiantes y ver su información (perfil en Github, nombre de usuario de Twitter, perdil de LinkedIN, etc.).
+Este [Student Showcase ( Lista de perfiles de los estudiantes)](https://sep.4geeksacademy.co/) aún está en versión beta. Ahí puedes encontrar una lista de estudiantes que ya han creado su perfil. También puedes darle clic a los diversos perfiles de estudiantes y ver su información (perfil en Github, nombre de usuario de Twitter, perfil de LinkedIN, etc.).
 
 No te preocupes por el contenido de tu perfil, hoy nos centraremos en la estructura YML y en que aparezcas en la [lista de estudiantes](https://sep.4geeksacademy.co/), luego podrás seguir actualizando tu perfil.
   
@@ -29,15 +30,15 @@ Esto creará un nuevo repositorio en tu cuenta de Github.
   
   ```$ git clone <url_of_repository>```
   
-3.  En tu *workspace*, crea un archivo `<your_github_username>.yml` dentro `/site/resumes/` con información sobre tu perfil. 
+3. En tu *workspace*, crea un archivo `<your_github_username>.yml` dentro `/site/resumes/` con información sobre tu perfil. 
 
-  El archivo `YML` debe contener toda tu información personal y profesional. Puedes ver los detalles [completando el archivo YML](#completing-the-yml-file)
+El archivo `YML` debe contener toda tu información personal y profesional. Puedes ver los detalles [completando el archivo YML](#completing-the-yml-file)
   
-  Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
+Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
   
-  ```yml
-  Importante: Deberías verificar tu sintaxis `YML` aquí: http://www.yamllint.com/
-  ```
+```yml
+Importante: Deberías verificar tu sintaxis `YML` aquí: http://www.yamllint.com/
+```
 
 4. Dale 'commit' y 'push' a tus cambios.
 
