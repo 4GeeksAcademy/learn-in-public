@@ -37,7 +37,7 @@ El archivo `YML` debe contener toda tu información personal y profesional. Pued
 Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
   
 ```yml
-Importante: Deberías verificar tu sintaxis `YML` aquí: http://www.yamllint.com/
+Importante: Deberías verificar tu sintaxis `YML` [aquí](http://www.yamllint.com/)
 ```
 
 4. Dale 'commit' y 'push' a tus cambios.
@@ -48,7 +48,7 @@ Importante: Deberías verificar tu sintaxis `YML` aquí: http://www.yamllint.com
   
   `$ git push origin master`
   
-5. Regresa a [Github](https://github.com) y busca el repositorio creado recientemente. Una vez dentro de tu repositorio, busca el botón **"Contribute & Pull Request"** que enviará/compratirá los cambios que realizaste desde tu repositorio al repositorio principal.
+5. Regresa a [Github](https://github.com) y busca el repositorio creado recientemente. Una vez dentro de tu repositorio, busca el botón **"Contribute & Pull Request"** que compratirá los cambios que realizaste desde tu repositorio al repositorio principal.
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
 
@@ -74,7 +74,7 @@ El archivo YML tiene 4 secciones principales:
 theme: Puedes escoger el `theme` y el skin color (color de fondo).
 basic_info: Información personal.
 education: Estudios.
-experiences: Experiencia llaboral
+experiences: Experiencia laboral
 projects: Decribe los proyectos que hayas hecho como desarrollador.
 publications: Cualquier artículo que hayas pubicado.
 skills: Haz una lista de tus habilidades/capacidades y asígnales un porcentaje de expertiz.
