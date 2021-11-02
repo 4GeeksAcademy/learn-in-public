@@ -25,7 +25,9 @@ Don't worry about the content of your profile, today its just about the YML stru
   ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
   
   A new repository will be created in your account.
-  
+
+## If you access the repository through the "Gitpod" button in GitHub, you must skip step #2, since it will duplicate the repository. Otherwise, continue.
+
 2. Clone the new repository into your *workspace*.
   
   ```$ git clone <url_of_repository> ```
