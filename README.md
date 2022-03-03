@@ -26,9 +26,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   
   A new repository will be created in your account.
   
-2. Clone the new repository into your *workspace*.
-  
-  ```$ git clone <url_of_repository> ```
+2. Clone the new repository into your *workspace* or open it on gitpod (ask your teacher on how to open your fork on gitpod if your don't know).
   
 3. In your *workspace*, create a file `<your_github_username>.yml` file inside `/site/resumes/` with your profile information. 
 
@@ -65,21 +63,13 @@ Your profile should look like the following:
 </p>
 
 <p align="center">
-  <a href="https://sep.4geeksacademy.com/sharu725" target="_blank">Wach Live Demo Here</a>
+  <a href="https://sep.4geeksacademy.com/84mulville/profile?lang=en&theme=white" target="_blank">Wach Live Demo Here</a>
 </p>
 
 ## Completing the YML file
 
-The YML file it's comprised of 4 major sections:
-```yml
-theme: You can choose a theme and skin colors.
-basic_info: Personal info
-education: Previous studies.
-experiences: Previous jobs.
-projects: Describe the projects you've built as a developer.
-publications: Any articles you have published.
-skills: List your skills with a percentage of expertise.
-```
+The YML file it's comprised of 4 major sections: `theme, basic_info, education, experiences, projects, publications, skills`
+
 
 <p align="center">
   <img height="350" src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/yml.png?raw=true">
