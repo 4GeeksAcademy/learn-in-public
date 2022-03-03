@@ -14,9 +14,9 @@ During this project you will start building your professional profile, one of th
 
 > This will be the first version of your Resume (as a coder).
   
-This [Student Showcase](https://sep.4geeksacademy.co/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
+This [Student Showcase](https://sep.4geeksacademy.com/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
-Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.co/), later you can do more updates to your profile.
+Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
 
 ## How to build your own profile inside the Student Showcase?
 
@@ -56,7 +56,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 After completing the PR (Pull Request) the application will automatically generate your own student portfolio, to see it, see if your name appears here: 
 
-**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.co/)**
+**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.com/)**
 
 Your profile should look like the following:
 
@@ -65,7 +65,7 @@ Your profile should look like the following:
 </p>
 
 <p align="center">
-  <a href="https://sep.4geeksacademy.co/sharu725" target="_blank">Wach Live Demo Here</a>
+  <a href="https://sep.4geeksacademy.com/sharu725" target="_blank">Wach Live Demo Here</a>
 </p>
 
 ## Completing the YML file
