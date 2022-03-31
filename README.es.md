@@ -1,37 +1,46 @@
- # Perfil externo del estudiante
+ # Perfil externo del estudiante (para introvertidos y extrovertidos)
 
-Es hora de comenzar tu primera contribución de GitHub. Git ofrece una forma de insertar código en un repositorio sin poseerlo, o incluso ser invitado a él, se llama `Pull request` y el objetivo principal de este ejercicio es crear tu primer `Pull request`.
+Las colaboraciones sustentan a Github, son su propósito principal. Es hora de que realices tu primera colaboración en Github.
 
-Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
-- Será la primera versión de tu portafolio de desarrolladores.
-- Será la primera versión de tu currículum (como un desarrollador).
-- Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
+ 
+## Pull Request
 
-Este `Student Showcase` todavía está en fase beta y tu eres uno de los primeros estudiantes en convertirse en colaborador. Puedes encontrar la lista de estudiantes que ya tienen su perfil construido en la [SIGUIENTE URL](http://sep.4geeksacademy.co/), También puedes hacer click en el nombre de los estudiantes para encontrar una versión beta de cómo se ve el perfil de los estudiantes en este momento.
+Git ofrece una forma de compartir (pushing) código con un repositorio sin ser el dueño, o incluso sin ser invitado a él. Esta forma se llama **"Pull request"** y estás a punto de hacer tu primera PR (Pull Request). [Aquí hay un video que explica las Pull Requests](https://www.youtube.com/watch?v=xl3nxfbGkzY).
+## Tu perfil público
 
-## ¿Cómo construir tu propio perfil dentro de Student Showcase?
+  
+Durante este proyecto comenzarás a construir tu perfil profesional y es uno de los logros más significativos que podrás tener en la academia:
 
-1. Haz Fork en [el repositorio](https://github.com/4GeeksAcademy/student-external-profile/).
+> Esta será la primera versión de tu CV (como programador).
+  
+Este [Student Showcase ( Lista de perfiles de los estudiantes)](https://sep.4geeksacademy.co/) aún está en versión beta. Ahí puedes encontrar una lista de estudiantes que ya han creado su perfil. También puedes darle clic a los diversos perfiles de estudiantes y ver su información (perfil en Github, nombre de usuario de Twitter, perfil de LinkedIN, etc.).
+
+No te preocupes por el contenido de tu perfil, hoy nos centraremos en la estructura YML y en que aparezcas en la [lista de estudiantes](https://sep.4geeksacademy.co/), luego podrás seguir actualizando tu perfil.
+  
+## ¿Cómo crear tu propio perfil dentro Student Showcase?
+
+1. Haz un fork del [repositorio](https://github.com/4GeeksAcademy/About-4Geeks-Academy).
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
   
-  Se creará un nuevo repositorio en su cuenta.
+Esto creará un nuevo repositorio en tu cuenta de Github.
   
-2. Clona el nuevo repositorio en tu *espacio de trabajo*.
+2. Clona el nuevo repositorio en tu  *workspace* (espacio de trabajo).
   
-  ```$ git clone <url_of_repository> ```
+  ```$ git clone <url_of_repository>```
   
-3. En tu *espacio de trabajo*, crea un archivo `<your_github_username> .yml` dentro de `/ src / students /` con tu información de perfil.
+3. En tu *workspace*, crea un archivo `<your_github_username>.yml` dentro `/site/resumes/` con información sobre tu perfil. 
 
-  El archivo `YML` debe contener toda tu información personal y profesional. Verifica los detalles en [Completando el archivo YML](#completing-the-yml-file)
+El archivo `YML` debe contener toda tu información personal y profesional. Puedes ver los detalles [completando el archivo YML](#completing-the-yml-file)
   
-  Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/student-external-profile/blob/master/site/resumes/example.yml).
+Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
   
-  ```
-  Importante: deberías probar tu sintáxis de `YML`aqui: http://www.yamllint.com/
-  ```
+```yml
+Importante: Deberías verificar tu sintaxis `YML` [aquí](http://www.yamllint.com/)
+```
 
-4. Commit y push tus cambios.
+4. Dale 'commit' y 'push' a tus cambios.
 
   `$ git add .`
   
@@ -39,20 +48,18 @@ Este `Student Showcase` todavía está en fase beta y tu eres uno de los primero
   
   `$ git push origin master`
   
-
-5. Volver a [Github](https://github.com) y busca el repositorio creado recientemente. En él, encontrarás un botón para "pull request" de tus cambios nuevamente al repositorio principal.
+5. Regresa a [Github](https://github.com) y busca el repositorio creado recientemente. Una vez dentro de tu repositorio, busca el botón **"Contribute & Pull Request"** que compratirá los cambios que realizaste desde tu repositorio al repositorio principal.
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
 
+Luego de completar la PR, la aplicación automáticamente generará tu propio portafolio de estudiante, para verlo, verifica que tu nombre aparezca en esta lista:
 
-Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiantes, para verlo, ve si tu nombre aparece aquí:
+**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.co/)**
 
-**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.co)**
-
-Tu perfil debe verse como el siguiente:
+Tu perfil debería parecerse al siguiente:
 
 <p align="center">
-  <img height="350" src="https://raw.githubusercontent.com/4GeeksAcademy/student-external-profile/master/site/static/preview.png">
+  <img height="350" src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/preview.png?raw=true">
 </p>
 
 <p align="center">
@@ -61,22 +68,23 @@ Tu perfil debe verse como el siguiente:
 
 ## Completando el archivo YML
 
-El archivo YML consta de 4 secciones principales:
+El archivo YML tiene 4 secciones principales:
+
 ```yml
-theme: You can choose a theme and skin colors.
-basic_info: Personal info
-education: Previous studies.
-experiences: Previous jobs.
-projects: Describe the projects you've built as a developer.
-publications: Any articles you have published.
-skills: List your skills with a percentage of expertise.
+theme: Puedes escoger el `theme` y el skin color (color de fondo).
+basic_info: Información personal.
+education: Estudios.
+experiences: Experiencia laboral
+projects: Decribe los proyectos que hayas hecho como desarrollador.
+publications: Cualquier artículo que hayas pubicado.
+skills: Haz una lista de tus habilidades/capacidades y asígnales un porcentaje de expertiz.
 ```
 
 <p align="center">
-  <img height="350" src="https://raw.githubusercontent.com/4GeeksAcademy/student-external-profile/master/site/static/yml.png">
+  <img height="350" src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/yml.png?raw=true">
 </p>
 
-Puede elegir una plantilla y un aspecto diferentes, por ejemplo:
+Tu puedes escoger otro formato con otros colores, por ejemplo:
 
 ```yml
 template: "online-cv"
