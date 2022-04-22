@@ -17,7 +17,7 @@ Este `Student Showcase` todavía está en fase beta y tu eres uno de los primero
   
   Se creará un nuevo repositorio en su cuenta.
   
-2. Clona el nuevo repositorio en tu *espacio de trabajo*.
+2. Clona el nuevo repositorio en tu ((cambio))*espacio de trabajo*.
   
   ```$ git clone <url_of_repository> ```
   
