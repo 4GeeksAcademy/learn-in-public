@@ -1,6 +1,14 @@
- # Perfil externo del estudiante
+ # Aprende en Público (para personas introvertidas y extrovertidas)
+ 
+Las contribuciones son el pan y la mantequilla de Github, el objetivo principal. Es hora de comenzar tu primera contribución en Github. 
 
-Es hora de comenzar tu primera contribución de GitHub. Git ofrece una forma de insertar código en un repositorio sin poseerlo, o incluso ser invitado a él, se llama `Pull request` y el objetivo principal de este ejercicio es crear tu primer `Pull request`.
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
+
+## The Pull Request
+
+Git ofrece una forma de insertar código en un repositorio sin poseerlo, o incluso ser invitado a él, se llama `Pull request` y el objetivo principal de este ejercicio es crear tu primer `Pull request`. [Aquí un video de 12min explicando pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+
+## Tu Perfil Público
 
 Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
 - Será la primera versión de tu portafolio de desarrolladores.
@@ -56,7 +64,7 @@ Tu perfil debe verse como el siguiente:
 </p>
 
 <p align="center">
-  <a href="https://sep.4geeksacademy.co/sharu725" target="_blank">Wach Live Demo Here</a>
+  <a href="https://sep.4geeksacademy.com/84mulville/profile?lang=en&theme=white" target="_blank">Wach Live Demo Here</a>
 </p>
 
 ## Completando el archivo YML
