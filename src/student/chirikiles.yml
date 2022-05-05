@@ -1,123 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Responsive CV </title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    <link rel="stylesheet" href="cvstyles.css">
-    
-    <title>Document</title>
-</head>
-<body>
-    <div class="container">
-      <div class="left_Side">
-        <div class="profileText">
-          <div class="imgBx">
-            <img class="photo" src="WhatsApp Image 2022-05-04 at 10.55.26 PM.jpeg">
-          </div>
-          <br>
-          <h2>Matias Chirikiles <br><span>Estudiante</span> </h2>
-        </div>
-  
-        <div class="contactInfo">
-          <h3 class="title">Informacion de Contacto</h3>
-          <ul>
-            <li>
-              <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-              <span class="text">+56 9 1234 5678</span>
-            </li>
-            <li>
-              <span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
-              <span class="text">chirikiles@example.com</span>
-            </li>
-            <li>
-              <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
-              <span class="text">www.linkedin.com/in/matias-chirikiles-075a5115</span>
-            </li>
-            <li>
-              <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
-              <span class="text">Buenos Aires, Argentina</span>
-            </li>
-          </ul>
-        </div>
-        <div class="contactInfo education">
-          <h3 class="title">Educacion</h3>
-          <ul>
-            <li>
-              <h5>2022</h5>
-              <h4>Full Stack Developer</h4>
-              <h4>4Geeks Academy</h4>
-            </li>
-           </ul>
-        </div>
-        <div class="contactInfo language">
-          <h3 class="title">Idiomas</h3>
-          <ul>
-            <li>
-              <span class="text">Ingles</span>
-              <span class="percent">
-                <div data-language="english"></div>
-              </span>
-            </li>
-          </ul>
-          <ul>
-            <li>
-              <span class="text">Español</span>
-              <span class="percent">
-                <div data-language="spanish"></div>
-              </span>
-            </li>
-          </ul>
-          
-        </div>
-      </div>
-      <div class="right_Side">
-        <div class="about">
-          <h2 class="title2">Perfil</h2>
-          <p>Estudiante de la carrera de Full stack developer
-            <br> <br>En 4Geeks Academy
-          </p>
-        </div>
-        <div class="about">
-          <h2 class="title2">Experiencia</h2>
-          <div class="box">
-            <div class="year_company">
-              <h5>2020 - Present</h5>
-              <h5>Company Name</h5>
-            </div>
-            <div class="text">
-              <h4>Junior Developer</h4>
-              <p></p>
-            </div>
-          </div>
-        </div>
-        <div class="about skills">
-          <h2 class="title2">Habilidades Profesionales</h2>
-          <div class="box">
-            <h4>HTML</h4>
-            <div class="percent">
-              <div data-knowledge="html"></div>
-            </div>
-          </div>
-          <div class="box">
-            <h4>CSS</h4>
-            <div class="percent">
-              <div data-knowledge="css"></div>
-            </div>
-          </div>
-          <div class="box">
-            <h4>JavaScript</h4>
-            <div class="percent">
-              <div data-knowledge="js"></div>
-            </div>
-          </div>
-         </div>
-  </body>
-  
-  </html>
+--- 
+basic_info: 
+  avatar: "https://randomuser.me/api/portraits/women/24.jpg"
+  email: a@a.com
+  first_name: matias
+  focus: "being better"
+  interests: 
+    - 
+      item: soccer
+  languages: 
+    - 
+      idiom: English
+      level: intermediate
+    - 
+      idiom: Spanish
+      level: native
+  last_name: chirikiles
+  linkedin: alandoe
+  motto: "I like saving the world"
+  phone: "234 2342 342"
+  summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+  website: asd.com
+education: 
+  - 
+    degree: ~
+experiences: 
+  - 
+    role: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps\""
+skills: 
+  toolset: 
+    - 
+      level: 98%
+      name: "Python & Django"
+    - 
+      level: 98%
+      name: "Javascript & jQuery"
+    - 
+      level: 98%
+      name: Angular
+    - 
+      level: 95%
+      name: "HTML5 & CSS"
+    - 
+      level: 85%
+      name: "Ruby on Rails"
+    - 
+      level: 60%
+      name: "Sketch & Photoshop"
+skin: blue
+template: online-cv
