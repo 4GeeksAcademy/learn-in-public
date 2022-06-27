@@ -36,7 +36,7 @@ Este `Student Showcase` todavía está en fase beta y tu eres uno de los primero
   Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/student-external-profile/blob/master/site/resumes/example.yml).
   
   ```
-  Importante: deberías probar tu sintáxis de `YML`aqui: http://www.yamllint.com/
+  Importante: deberías probar tu sintáxis de `YML`aquí: http://www.yamllint.com/
   ```
 
 4. Commit y push tus cambios.
