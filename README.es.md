@@ -12,7 +12,7 @@ Git ofrece una forma de insertar código en un repositorio sin poseerlo, o inclu
 
 Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
 - Será la primera versión de tu portafolio de desarrolladores.
-- Será la primera versión de tu currículum (como un desarrollador).
+- Será la primera versión de tu CV (como un desarrollador).
 - Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
 
 Este `Student Showcase` todavía está en fase beta y tu eres uno de los primeros estudiantes en convertirse en colaborador. Puedes encontrar la lista de estudiantes que ya tienen su perfil construido en la [SIGUIENTE URL](http://sep.4geeksacademy.co/), También puedes hacer click en el nombre de los estudiantes para encontrar una versión beta de cómo se ve el perfil de los estudiantes en este momento.
