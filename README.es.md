@@ -28,6 +28,8 @@ Este `Student Showcase` todavía está en fase beta y tu eres uno de los primero
 2. Clona el nuevo repositorio en tu *espacio de trabajo*.
   
   ```$ git clone <url_of_repository> ```
+
+  O abre este archivo usando Gitpod desde tu repositorio
   
 3. En tu *espacio de trabajo*, crea un archivo `<your_github_username> .yml` dentro de `/ src / students /` con tu información de perfil.
 
