@@ -1,5 +1,7 @@
  # Aprende en Público (para personas introvertidas y extrovertidas)
  
+> 🚨 Information importante para los profesores, [por favor lee esto si eres profesor](./TEACHERS_INSTRUCTIONS.md).
+ 
 Las contribuciones son el pan y la mantequilla de Github, el objetivo principal. Es hora de comenzar tu primera contribución en Github. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
