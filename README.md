@@ -16,7 +16,7 @@ During this project you will start building your professional profile, one of th
 
 > This will be the first version of your Resume (as a coder).
   
-This [Student Showcase](https://sep.4geeksacademy.com/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
+This [Student Showcase](https://sep.4geeksacademy.com/) is still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
 Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
 
