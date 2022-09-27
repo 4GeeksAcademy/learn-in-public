@@ -20,7 +20,7 @@ Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los log
 
 - Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
 
-Este [Student Showcase](https://sep.4geeksacademy.com/) todavía está en versión beta. Puedes encontrar la lista de estudiantes que ya tienen su perfil creado, también puedes hacer clic alrededor de cada estudiante para encontrar su información pública (perfil de github, nombres de usuario de twitter, perfiles de linkedin, etc.).
+Este [Student Showcase](https://sep.4geeksacademy.com/) todavía está en versión beta. Puedes encontrar la lista de estudiantes que ya tienen su perfil creado, también puedes hacer clic alrededor de cada estudiante para encontrar su información pública (perfil de Github, nombres de usuario de Twitter, perfiles de Linkedin, etc.).
 
 No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructura YML y de asegurarse de aparecer en la [lista de estudiantes] (https://sep.4geeksacademy.com/), luego puedes hacer más actualizaciones para tu perfil.
 
@@ -32,7 +32,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   Se creará un nuevo repositorio en su cuenta.
   
-2. Clona el nuevo repositorio en tu *workspace* o ábrelo en gitpod (pregúntele a tu maestro cómo abrir tu fork en gitpod si no lo sabes).
+2. Clona el nuevo repositorio en tu *workspace* o ábrelo en Gitpod (pregúntele a tu maestro cómo abrir tu fork en Gitpod si no lo sabes).
   
 3. En tu *workspace*, crea un archivo `<your_github_username> .yml` dentro de `/ src / students /` con tu información de perfil.
 
