@@ -1,20 +1,26 @@
  # Learn In Public (for introverts and extroverts)
 
+> 🚨 Important information for the teachers, [please read this if you are a teacher](./TEACHERS_INSTRUCTIONS.md).
+
 Contributions are Github's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
  
 ## The Pull Request
 
-Git offers a way of pushing code into a repository without owning it, or even being invited to it, it is called "Pull Request" and you are about to do your first. [Here is a 12min video explaning pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull request` and the main goal of this exercise is to create your first `Pull request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Your Public Profile
   
 During this project you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
 
-> This will be the first version of your Resume (as a coder).
+- It will be the first version of your developer portfolio.
+
+- This will be the first version of your Resume (as a coder).
   
-This [Student Showcase](https://sep.4geeksacademy.com/) it's still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
+- It will give more context to your learning experience: you can see a table of everything you will learn throughout the course.
+  
+This [Student Showcase](https://sep.4geeksacademy.com/) is still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
 Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
 
@@ -35,7 +41,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   For example: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
   
   ```
-  Importante: You should test your `YML` syntax here: http://www.yamllint.com/
+  Important: You should test your `YML` syntax here: http://www.yamllint.com/
   ```
 
 4. Commit and push your changes.
@@ -68,7 +74,17 @@ Your profile should look like the following:
 
 ## Completing the YML file
 
-The YML file it's comprised of 4 major sections: `theme, basic_info, education, experiences, projects, publications, skills`
+The YML file it's comprised of 4 major sections: 
+
+```yml
+theme: You can choose a theme and skin colors.
+basic_info: Personal info.
+education: Previous studies.
+experiences: Previous jobs.
+projects: Describe the projects you've built as a developer.
+publications: Any articles you have published.
+skills: List your skills with a percentage of expertise.
+```
 
 
 <p align="center">
