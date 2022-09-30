@@ -1,6 +1,6 @@
  # Aprende en Público (para introvertidos y extrovertidos)
  
-> 🚨 Information importante para los profesores, [por favor lee esto si eres profesor](./TEACHERS_INSTRUCTIONS.md).
+> 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](./TEACHERS_INSTRUCTIONS.md).
  
 Las contribuciones son el pan y la mantequilla de Github, el objetivo principal. Es hora de comenzar tu primera contribución en Github. 
 
