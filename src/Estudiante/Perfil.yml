@@ -1,0 +1,69 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Gabriel
+    last_name: Ramos
+    
+    # Define yourself in 4-5 words
+    motto: persistente 
+    
+    # focus
+    focus: Lograr siempre mis objetivos 
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+          Me llamo Gabriel Ramos me considero una persistente e inteligente capas de lograr las metas propuesta. Ingeniro de sistemas egresado de la UDO Nucleo Oriente. Actualmente 
+          estudiante de la academia 4Geeks. Me gustar estar en constante aprendisaje y siempre trando de enfocar mis conocimientos hacia la programacion.  
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://ibb.co/2FY8fV2
+
+    # Contact Information
+    email: gabrieljramos241@gmail.com
+    linkedin: https://www.linkedin.com/in/gabrielramosguzman/   
+    
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/Ramos241
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Español
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Programar
+
+      - item: Beisbol
+
+# Your previous education
+education:
+    - degree: ING Sistemas
+      university: Universidad de Oriente Nucleo Monagas
+      time: 210 - 2016
+
+skills:
+    toolset: 
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: Sketch & Photoshop
+        level: 50%
+
+      -name: C++
+      -level: 70%  
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
