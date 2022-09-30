@@ -1,0 +1,3 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: .gitpod.yml
