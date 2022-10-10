@@ -34,7 +34,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
 2. Clona el nuevo repositorio en tu *workspace* o ábrelo en Gitpod (pregúntele a tu maestro cómo abrir tu fork en Gitpod si no lo sabes).
   
-3. En tu *workspace*, crea un archivo `<your_github_username> .yml` dentro de `/ site / resumens /` con tu información de perfil.
+3. En tu *workspace*, crea un archivo `<your_github_username> .yml` dentro de `/ site / resumes /` con tu información de perfil.
 
   El archivo `YML` debe contener toda tu información personal y profesional. Verifica los detalles en [Completando el archivo YML](#completing-the-yml-file)
   
