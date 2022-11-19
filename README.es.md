@@ -8,7 +8,7 @@ Las contribuciones son el pan y la mantequilla de Github, el objetivo principal.
 
 ## El Pull Request
 
-Git ofrece una forma de insertar código en un repositorio sin poseerlo, o incluso ser invitado a él, se llama `Pull request` y el objetivo principal de este ejercicio es crear tu primer `Pull request`. [Aquí un video de 12min explicando pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git ofrece una forma de insertar código en un repositorio sin poseerlo o incluso ser invitado a él, se llama `Pull request` y el objetivo principal de este ejercicio es crear tu primer `Pull request`. [Aquí un video de 12min explicando pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Tu Perfil Público
 
