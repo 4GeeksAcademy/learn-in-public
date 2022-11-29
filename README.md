@@ -74,7 +74,7 @@ Your profile should look like the following:
 
 ## Completing the YML file
 
-The YML file it's comprised of 4 major sections: 
+The YML file is comprised of 4 major sections: 
 
 ```yml
 theme: You can choose a theme and skin colors.
