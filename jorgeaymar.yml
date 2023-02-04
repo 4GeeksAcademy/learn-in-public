@@ -13,99 +13,95 @@ basic_info:
     last_name: Sánchez Aymar
     
     # Define yourself in 4-5 words
-    motto: I like to programming the world
+    motto: Quiero programar el mundo
     
     # focus
-    focus: learning bootcamp
+    focus: Mejorar mi carrera profesional
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
-      Project Manager, and ternal learning
+      Project Manager TI
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    email: jorge.s.aymar@gmail.com #optional
+    phone: +569 5803 7751 #optional
+    website: https://github.com/JorgeAymar #optional
+    linkedin: https://www.linkedin.com/in/jorge-s%C3%A1nchez-aymar-1a143b50/ #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: https://github.com/JorgeAymar
     
-    twitter: 'webjeda' #optional
+    twitter: 'jorgesanchez9476' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
     languages:
-      - idiom: English
+      - idiom: Ingles
+        level: Professional
+
+      - idiom: Portuges
+        level: Basic
+
+      - idiom: Español
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: Navegación, Buceo
 
-      - item: Snowboarding
+      - item: Cocinar
 
-      - item: Cooking
+      - item: Finanzasd e Innversiones
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Ingenieria Ejecución en Computación e Informática
+      university: Universidad de Tarapacá
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      university_logo: https://www.universidadesonline.cl/logos/original/logo-universidad-de-tarapaca.webp
+      time: 1988 - 1994
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+        Ingeniero en Informática, estudios en ciencias de la computación
+          - Proyecto itutlación, Seguridad en BD Ingres
+    - degree: Diploma en Gestión de Negocos
+      university: Universida de Chile
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      university_logo: https://www.uchile.cl/.imaging/stk/uchile/nav-lateral-ancho/dam/imagenes/Uchile/imagenes-contenidos-generales/7910_0_escudouchiledescargar_S/jcr:content/escudouchiledescargar.jpg.jpg
+      time: 2011 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estudios de diplomado en Administración de Negocios e Inovación 
 # Your previous job experiences or voluntier
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Proyect Manager TI
+      time: 2020 - Present
+      company: SISDEF, Santiago - Chile
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://www.sisdef.cl/assets/images/logo-sisdef-trans-308x1190.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Project: Corporate Web Sites, project for developing the new corporative 
+          site www.aminerals.cl and 8 others sites to improve the communication
+          image for the company, using UX/UI and tools like: Figma, .NET, CMS
+          Sitefinity, SQL Server, DevOps, App Services all running at Azure Cloud.
+        - Project: app GAM, managing implementation of social app for the company,
+          improving communications channels for business users (20.000+), located
+          in Chile, UK, China, Canada.
+        - Project: Legal Portal, Document Management System as Legal Repository,
+          for the Legal División in other to facilitate the control of legal
+          documentation like contacts, maps, deeds, and other legal information for
+          mining lawyers. running at Sharepoint 365 Online.
+        - Project Antara ERP Integration, Business Case for integration of ERP Mining
+          services with logistics systems and the port shipping. Project based in Web
+          Services integration.
+        - Working as Project Manager, I had opportunity to manage projects from
+          Business Case to Production, controlling scope, time and cost, working with
+          subcontractors at 12+ projects running under PMI and Agiles standards for
+          the Mining Company Antofagasta Minerals PLC.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
