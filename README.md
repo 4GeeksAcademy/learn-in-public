@@ -69,7 +69,7 @@ Your profile should look like the following:
 </p>
 
 <p align="center">
-  <a href="https://sep.4geeksacademy.com/84mulville/profile?lang=en&theme=white" target="_blank">Wach Live Demo Here</a>
+  <a href="https://sep.4geeksacademy.com/84mulville/profile?lang=en&theme=white" target="_blank">Watch Live Demo Here</a>
 </p>
 
 ## Completing the YML file
