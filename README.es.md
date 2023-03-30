@@ -2,7 +2,7 @@
  
 > 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
  
-Las contribuciones son el pan y la mantequilla de Github, el objetivo principal. Es hora de comenzar tu primera contribución en Github. 
+Las contribuciones son cotidianas en Github, el objetivo principal. Es hora de comenzar tu primera contribución en Github. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
 
@@ -14,9 +14,9 @@ Git ofrece una forma de insertar código en un repositorio sin poseerlo, o inclu
 
 Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
 
-- Será la primera versión de tu portafolio de desarrolladores.
+- Será la primera versión de tu [portafolio de desarrolladores](https://www.cyberclick.es/numerical-blog/que-es-un-portfolio-consejos-y-herramientas).
 
-- Será la primera versión de tu currículum (como un desarrollador).
+- Será la primera versión de tu [currículum](https://www.educaweb.com/contenidos/laborales/herramientas-recursos-encontrar-trabajo/curriculum-vitae-cv/) (como un desarrollador).
 
 - Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
 
