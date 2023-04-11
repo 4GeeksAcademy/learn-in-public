@@ -32,9 +32,9 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   Se creará un nuevo repositorio en su cuenta.
   
-2. Clona el nuevo repositorio en tu *workspace* o ábrelo en Gitpod (pregúntele a tu maestro cómo abrir tu fork en Gitpod si no lo sabes).
+2. Abre tu nuevo repositorio (fork) con un sistema de aprovisionamiento como Codespaces o Gitpod (pregúntale a tu maestro cómo abrir tu fork si no lo sabes).
   
-3. En tu *workspace*, crea un archivo `<your_github_username> .yml` dentro de `/ src / students /` con tu información de perfil.
+3. En tu *codespace*, crea un archivo `<your_github_username> .yml` dentro de `/ src / students /` con tu información de perfil.
 
   El archivo `YML` debe contener toda tu información personal y profesional. Verifica los detalles en [Completando el archivo YML](#completing-the-yml-file)
   
