@@ -74,7 +74,7 @@ Tu perfil debe verse como el siguiente:
 
 ## Completando el archivo YML
 
-El archivo YML consta de 4 secciones principales:
+El archivo YML tiene  4 secciones principales:
 
 ```yml
 tema: Puedes elegir un tema y colores de piel.
