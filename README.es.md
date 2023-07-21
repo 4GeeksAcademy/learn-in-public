@@ -26,9 +26,9 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 
 ## ¿Cómo construir tu propio perfil dentro de Student Showcase?
 
-1. Haz Fork en [el repositorio](https://github.com/4GeeksAcademy/student-external-profile/).
+1. Haz Fork de [este repositorio](https://github.com/4GeeksAcademy/4GeeksAcademy).
 
-  ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+  ![alt-text](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
   
   Se creará un nuevo repositorio en su cuenta.
   
@@ -38,7 +38,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 
   El archivo `YML` debe contener toda tu información personal y profesional. Verifica los detalles en [Completando el archivo YML](#completing-the-yml-file)
   
-  Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/student-external-profile/blob/master/site/resumes/example.yml).
+  Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml).
   
   ```
   Importante: deberías probar tu sintáxis de `YML`aquí: http://www.yamllint.com/
@@ -55,7 +55,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 
 5. Volver a [Github](https://github.com) y busca el repositorio creado recientemente. En él, encontrarás un botón para "pull request" de tus cambios nuevamente al repositorio principal.
 
-  ![alt-text](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
+  ![alt-text](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
 
 
 Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiantes, para verlo, ve si tu nombre aparece aquí:
@@ -65,7 +65,7 @@ Después de completar el PR (Pull Request), la aplicación generará automática
 Tu perfil debe verse como el siguiente:
 
 <p align="center">
-  <img height="350" src="https://raw.githubusercontent.com/4GeeksAcademy/student-external-profile/master/site/static/preview.png">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/preview.png?raw=true">
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ Habilidades: Enumera tus habilidades con un porcentaje de experiencia.
 ```
 
 <p align="center">
-  <img height="350" src="https://raw.githubusercontent.com/4GeeksAcademy/student-external-profile/master/site/static/yml.png">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/yml.png?raw=true">
 </p>
 
 Puedes elegir una plantilla y un aspecto diferentes, por ejemplo:
