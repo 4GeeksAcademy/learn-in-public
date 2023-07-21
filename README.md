@@ -65,7 +65,7 @@ After completing the PR (Pull Request) the application will automatically genera
 Your profile should look like the following:
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/static/preview.png?raw=true">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/preview.png?raw=true">
 </p>
 
 <p align="center">
