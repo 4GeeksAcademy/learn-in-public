@@ -26,7 +26,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 ## How to build your own profile inside the Student Showcase?
 
-1. Fork [the repository](https://github.com/4GeeksAcademy/4GeeksAcademy).
+1. Fork [this repository https://github.com/4GeeksAcademy/4GeeksAcademy](https://github.com/4GeeksAcademy/4GeeksAcademy).
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
   
