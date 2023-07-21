@@ -26,9 +26,9 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 ## How to build your own profile inside the Student Showcase?
 
-1. Fork [this repository https://github.com/4GeeksAcademy/4GeeksAcademy](https://github.com/4GeeksAcademy/4GeeksAcademy).
+1. Open this URL and fork [the repository `https://github.com/4GeeksAcademy/4GeeksAcademy`](https://github.com/4GeeksAcademy/4GeeksAcademy).
 
-  ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+  ![alt-text](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
   
   A new repository will be created in your account.
   
@@ -55,7 +55,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 5. Go back to [Github](https://github.com) and look for the recently created repository. In it you will find a button to "Pull Request" your changes back into the main repository.
 
-  ![alt-text](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
+  ![alt-text](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
 
 
 After completing the PR (Pull Request) the application will automatically generate your own student portfolio, to see it, see if your name appears here: 
