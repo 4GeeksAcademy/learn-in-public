@@ -12,7 +12,7 @@ Git offers a way to push code to a repository without owning it, or even being i
 
 ## Your Public Profile
   
-During this project you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
+During this project, you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
 
 - It will be the first version of your developer portfolio.
 
@@ -20,13 +20,13 @@ During this project you will start building your professional profile, one of th
   
 - It will give more context to your learning experience: you can see a table of everything you will learn throughout the course.
   
-This [Student Showcase](https://sep.4geeksacademy.com/) is still in beta. You can find the list of students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
+Open this [Student Showcase](https://sep.4geeksacademy.com/) (still in beta): Here you can find the list of some students that have their profile already built, you can also click around each student to find their public information (github profile, twitter usernames, linkedin profiles, etc.).
   
 Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [student list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
 
 ## How to build your own profile inside the Student Showcase?
 
-1. Fork [the repository](https://github.com/4GeeksAcademy/About-4Geeks-Academy).
+1. Fork [the repository](https://github.com/4GeeksAcademy/4GeeksAcademy).
 
   ![alt-text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
   
@@ -38,7 +38,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
   The `YML` file must contain all your personal and professional information. Check the details in [Completing the YML file](#completing-the-yml-file)
   
-  For example: [example.yml](https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/resumes/example.yml).
+  For example: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml).
   
   ```
   Important: You should test your `YML` syntax here: http://www.yamllint.com/
@@ -65,7 +65,7 @@ After completing the PR (Pull Request) the application will automatically genera
 Your profile should look like the following:
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/preview.png?raw=true">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/static/preview.png?raw=true">
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ skills: List your skills with a percentage of expertise.
 
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/yml.png?raw=true">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/static/yml.png?raw=true">
 </p>
 
 You can pick a different template and skin, for example:
