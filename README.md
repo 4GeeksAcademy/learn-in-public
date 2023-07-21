@@ -88,7 +88,7 @@ skills: List your skills with a percentage of expertise.
 
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/static/yml.png?raw=true">
+  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/yml.png?raw=true">
 </p>
 
 You can pick a different template and skin, for example:
