@@ -41,7 +41,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   Por ejemplo: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml).
   
   ```
-  Importante: deberías probar tu sintáxis de `YML`aquí: http://www.yamllint.com/
+  Importante: deberías probar tu sintaxis de `YML`aquí: http://www.yamllint.com/
   ```
 
 4. Commit y push tus cambios.
