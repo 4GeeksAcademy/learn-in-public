@@ -26,7 +26,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 ## How to build your own profile inside the Student Showcase?
 
-1. Open this URL and fork [the repository `https://github.com/4GeeksAcademy/4GeeksAcademy`](https://github.com/4GeeksAcademy/4GeeksAcademy).
+1. Open this URL and fork the repository https://github.com/4GeeksAcademy/4GeeksAcademy
 
   ![fork button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
   
