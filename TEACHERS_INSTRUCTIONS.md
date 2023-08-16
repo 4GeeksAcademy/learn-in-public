@@ -2,7 +2,7 @@
 
 This project is called **Learn in Public** because the academy believes that learning in public is the most effective way to get a job.
 
-> 💡 Learning in public is better than having a portfolio.
+> 👉 Learning in public is better than having a portfolio.
 
 In an effort to apply the [Learn In Public methodology](https://www.swyx.io/learn-in-public/), this project asks the students for the first time to create a pull request.
 
@@ -22,4 +22,4 @@ Simple:
 
 ## But what if the automatic tests fail?
 
-Teach the student how to review the test errors, fix them and submit for approval again. The second time the bot will be able to run without approval.
+Teach the student how to review the test errors, fix them and submit for approval again. The second time, the bot will be able to run without approval.
