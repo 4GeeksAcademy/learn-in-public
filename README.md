@@ -38,7 +38,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
   The `YML` file must contain all your personal and professional information. 
   
-  Check this template to see how a profile should look: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml)
+  Open this template and make your profile from here: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml)
   
   > 💡 Important: You should test your `YML` syntax here: https://www.yamllint.com/
 
