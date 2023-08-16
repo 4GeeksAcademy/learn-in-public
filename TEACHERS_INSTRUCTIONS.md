@@ -1,4 +1,4 @@
-# Teachers' responsibilities on this project
+# Teacher's responsibilities on this project
 
 This project is called **Learn in Public** because the academy believes that learning in public is the most effective way to get a job.
 
