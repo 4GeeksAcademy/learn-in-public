@@ -40,7 +40,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   Abre esta plantilla y copia su contenido para empezar a construir tu perfil: [example.yml](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/resumes/example.yml)
   
-  > 💡 Importante: debes probar tu sintáxis de `YML` aquí: https://www.yamllint.com/
+  > 💡 Importante: debes probar tu sintaxis de `YML` aquí: https://www.yamllint.com/
 
 4. Commit y push a tus cambios.
 
