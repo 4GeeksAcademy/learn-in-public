@@ -53,7 +53,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 5. Volver a [GitHub](https://github.com) y buscar el repositorio creado recientemente. En él encontrarás un botón para hacer "Pull Request" a tus cambios nuevamente al repositorio principal.
 
 
-  ![botón de pull request](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png)
+  ![botón de pull request](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
   
 
 Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiante, para verlo, verifica si tu nombre aparece aquí:
@@ -83,7 +83,7 @@ skills: Enumera tus habilidades con un porcentaje de experiencia.
 ```
 
 <p align="center">
-  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png?raw=true">
+  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png">
 </p>
 
 Puedes elegir una plantilla y un aspecto diferentes, por ejemplo:
