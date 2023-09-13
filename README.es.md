@@ -63,7 +63,7 @@ Después de completar el PR (Pull Request), la aplicación generará automática
 Tu perfil debe verse como el siguiente:
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/preview.png?raw=true">
+  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-resume-png?raw=true">
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ skills: Enumera tus habilidades con un porcentaje de experiencia.
 ```
 
 <p align="center">
-  <img height="350" src="https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/yml.png?raw=true">
+  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png?raw=true">
 </p>
 
 Puedes elegir una plantilla y un aspecto diferentes, por ejemplo:
