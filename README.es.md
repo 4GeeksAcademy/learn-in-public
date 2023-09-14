@@ -22,7 +22,7 @@ Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los log
 
 Este [Student Showcase](https://sep.4geeksacademy.com/) todavía está en versión beta. Puedes encontrar la lista de estudiantes que ya tienen su perfil creado, también puedes hacer clic alrededor de cada estudiante para encontrar su información pública (perfil de GitHub, nombres de usuario de Twitter, perfiles de Linkedin, etc.).
 
-No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructura YML y de asegurarse de aparecer en la [lista de estudiantes](https://sep.4geeksacademy.com/), luego puedes hacer más actualizaciones para tu perfil.
+No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructura YML y de asegurarse de aparecer en la [lista de estudiantes](https://sep.4geeksacademy.com/), luego puedes hacer más actualizaciones para tu perfil. adicional te invitamos a ver algunas ideas de perfiles en github (https://www.youtube.com/watch?v=7Put3ddOpTw)
 
 ## ¿Cómo construir tu propio perfil dentro del Student Showcase?
 
