@@ -72,7 +72,7 @@ Tu perfil debe verse como el siguiente:
 
 ## Completando el archivo YML
 
-El archivo YML consta de 5 secciones principales:
+El archivo YML abarca 5 secciones principales:
 
 ```yml
 basic_info: Información personal.
