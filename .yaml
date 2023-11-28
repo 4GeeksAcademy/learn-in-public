@@ -1,0 +1,97 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Rodrigo
+    last_name: Almeida
+    
+    # Define yourself in 4-5 words
+    motto: I like exploring the world
+    
+    # focus
+    focus: Work on a career
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+     junior HTML and CSS developer with a solid understanding of HTML tags, attributes, and elements, and experience creating semantic and accessible HTML code. Have knowledge of CSS preprocessors like Sass and Less, as well as CSS frameworks like Bootstrap. I am familiar with responsive web design.e Creative Suite. I am eager to learn and contribute to successful web development projects.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+  email: almeida.rocatar@outlook.com #optional
+    phone: 006138903496 #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Rodrigou0
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Portuguese
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Climbing
+
+      - item: Swimming
+
+      - item: GYM
+
+# Your previous education
+education:
+    - degree: None
+      university: None
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2011 - 2012
+      details: |
+# Your previous job experiences or voluntier
+experiences:
+  - role: Oder Picker
+      time: 2020 - 2023
+      company: Sligro, Netherlands
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   
+    assignments:
+      - title: Instagram photos and feed
+        # optional
+        link: "https://github.com/Rodrigou0/Instagram---bootstrap"
+        tagline: "A responsive instagram website with the photos and feed section."
+    
+skills:
+    toolset:
+      - name: Python & Django
+        level: 0%
+
+      - name: Javascript & jQuery
+        level: 0%
+
+      - name: Angular
+        level: 0%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: Ruby on Rails
+        level: 0%
+
+     - name: Sketch & Photoshop
+        level: 0%
