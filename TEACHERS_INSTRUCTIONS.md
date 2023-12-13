@@ -22,4 +22,4 @@ Simple:
 
 ## But what if the automatic tests fail?
 
-Teach the student how to review the test errors, fix them and submit for approval again. The second time, the bot will be able to run without approval.
+Teach the student how to review the test errors, fix them and submit for approval again. The second time, the bot will be able to run without approval...
