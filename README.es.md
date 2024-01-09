@@ -58,7 +58,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 
 Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiante, para verlo, verifica si tu nombre aparece aquí:
 
-**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.co)**
+**[https://sep.4geeksacademy.com](https://sep.4geeksacademy.co)**
 
 Tu perfil debe verse como el siguiente:
 
