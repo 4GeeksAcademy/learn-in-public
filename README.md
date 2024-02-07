@@ -57,7 +57,7 @@ Don't worry about the content of your profile, today its just about the YML stru
 
 After completing the PR (Pull Request) the application will automatically generate your own student portfolio, to see it, see if your name appears here: 
 
-**[https://sep.4geeksacademy.co](https://sep.4geeksacademy.com/)**
+**[https://sep.4geeksacademy.com](https://sep.4geeksacademy.com/)**
 
 Your profile should look like the following:
 
