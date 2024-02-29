@@ -56,7 +56,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   ![botón de pull request](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
   
 
-Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiante, para verlo, verifica si tu nombre aparece aquí:
+Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiante. Para verlo, verifica si tu nombre aparece aquí:
 
 **[https://sep.4geeksacademy.co](https://sep.4geeksacademy.co)**
 
