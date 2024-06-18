@@ -8,7 +8,7 @@ Contributions are GitHub's bread-and-butter, the main purpose. It's time to star
  
 ## The Pull Request
 
-Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git offers a way to push code to a repository without owning it, or even being invited to it. It's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Your Public Profile
   
@@ -22,7 +22,7 @@ During this project, you will start building your professional profile, one of t
   
 Open this [Student Showcase](https://sep.4geeksacademy.com/) (still in beta): Here you can find the list of some students that have their profile already built, you can also click around each student to find their public information (GitHub profile, Twitter usernames, Linkedin profiles, etc.).
   
-Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [students list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
+Don't worry about the content of your profile. Today it's just about the YML structure and making sure you show up on the [students list](https://sep.4geeksacademy.com/). Later, you'll be able to make more updates to your profile.
 
 ## How to build your own profile inside the Student Showcase?
 
@@ -50,7 +50,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   
   `$ git push origin master`
   
-5. Go back to [GitHub](https://github.com) and look for the recently created repository. In it you will find a button to "Pull Request" your changes back into the main repository.
+5. Go back to [GitHub](https://github.com) and look for the recently created repository. In it, you will find a button to "Pull Request" your changes back into the main repository.
 
   ![pull request button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
 
