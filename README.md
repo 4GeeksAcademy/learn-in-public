@@ -12,7 +12,7 @@ Git offers a way to push code to a repository without owning it, or even being i
 
 ## Your Public Profile
   
-During this project, you will start building your professional profile, one of the most significant accomplishments you can have at the academy:
+During this project, you will start building your professional profile, one of your most significant accomplishments you can have at the academy:
 
 - It will be the first version of your developer portfolio.
 
