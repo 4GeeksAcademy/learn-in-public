@@ -34,7 +34,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   
 2. Open the new forked repository using a provisioning tool like Codespaces (recommended) or Gitpod (ask your teacher on how to open your fork).
   
-3. In your Codespace, create a file `<your_github_username>.yml` file inside `/site/resumes/` with your profile information. 
+3. In your Codespace, create a `<your_github_username>.yml` file inside `/site/resumes/` with your profile information. 
 
   The `YML` file must contain all your personal and professional information. 
   
