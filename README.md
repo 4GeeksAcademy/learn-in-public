@@ -8,7 +8,7 @@ Contributions are GitHub's bread-and-butter, the main purpose. It's time to star
  
 ## The Pull Request
 
-Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12 minutes video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Your Public Profile
   
