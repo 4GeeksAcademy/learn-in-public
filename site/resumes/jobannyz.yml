@@ -1,0 +1,58 @@
+contact:
+  name: Jobanny Zúñiga Ibarra
+  email: jobannyz@gmail.com
+  date_of_birth: 07/09/1979
+  job: Full Stack Development Student
+  location:
+    address: Los Angeles
+    city: Grecia
+    country: CRC
+    zip: 20308
+  phone: '+50688406340'
+experiences:
+- company: 4geeks Academy
+  position: Full Stack Development Student
+  start_date: February 2021
+  summary: |
+        Full Stack Development Student
+  tags:
+  - HTML5
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - React
+  - Python
+  - Flask
+  - SQL
+profiles:
+- network: Facebook
+  url: https://facebook.com/jobanny.zuniga
+education:
+- degree: Bachelor of Software Engineering
+  start_date: May 2020
+  end_date: In progress
+  institution: Universidad Fidélitas, Heredia, Costa Rica
+  website: https://www.https://ufidelitas.ac.cr/
+skills:
+- name: HTML5-CSS
+  level: 50
+- name: JavaScript
+  level: 50
+- name: React
+  level: 50
+- name: Python
+  level: 50
+languages:
+- name: Spanish
+  level: Native language
+- name: English
+  level: Proficient
+projects:
+- name: Star Wars Blog REading List
+  description: A great app
+  url: https://github.com/jobannyz/StarWars_Blog_Reading_List.git
+hobbies:
+- name: Sports
+- name: Technology
+- name: Hiking
+  details: 
