@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/4GeeksAcademy/learn-in-public)
+
  # Learn In Public (for introverts and extroverts)
 
 > 🚨 Important information for the teachers, [please read this if you are a teacher](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
