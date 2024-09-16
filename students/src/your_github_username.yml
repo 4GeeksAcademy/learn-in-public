@@ -1,0 +1,24 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+
+name: Olger Andres Garita Torres
+tagline: Full stack Developer
+
+email: olgeragt@gmail.com
+phone: 86 08 60 10
+linkedin: Olger Garita Torres
+github: OlgerAndres
+
+languages:
+ - idiom: English
+   level: B2
+
+skills:
+ - HTML5
+ - CSS3
+ - Javascript
+ - Bootstrap
+ - Git
