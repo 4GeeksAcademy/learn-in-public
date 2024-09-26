@@ -1,6 +1,6 @@
  # Aprende en Público (para introvertidos y extrovertidos)
  
-> 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
+> 🚨 Información importante para los profesores; [por favor lee esto, si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
  
 Las contribuciones son el pan y la mantequilla de GitHub, el objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
 
