@@ -1,0 +1,24 @@
+template: "online-cv"
+skin: "white"
+
+basic_info:
+
+  name: Juan Goyeneche
+  tagline: Full stack developer 
+  avatar: profile.png
+
+  email: juangoye15@gmail.com
+  phone: +573005090490
+  website: 
+  github: JuanGoye15
+
+  languages: 
+    - idiom: English
+    - level: Professional
+
+    - idiom: Spanish
+    - level: Native
+
+    - idiom: German
+    - level: Intermediate
+
