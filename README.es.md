@@ -86,7 +86,7 @@ skills: Enumera tus habilidades con un porcentaje de experiencia.
   <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png">
 </p>
 
-Puedes elegir una plantilla y un aspecto diferentes, por ejemplo:
+Puedes elegir una plantilla y un aspecto diferente, por ejemplo:
 
 ```yml
 template: "online-cv"
