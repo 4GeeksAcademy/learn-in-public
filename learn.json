@@ -7,7 +7,7 @@
 	"duration" : 1,
 	"difficulty": "easy",
 	"translations": ["us","es"],
-	"technologies": ["markdown", "yml"],
+	"technologies": ["markdown", "yml", "git", "github"],
 	"synxtax": "markdown",
 	"description" : "Build the first version of your student external profile that recruiters will see",
 	"talents": []
