@@ -1,5 +1,8 @@
 {
-	"title" : "Learn in Public using Pull Requests",
+	"title" : {
+		"us": "Learn in Public using Pull Requests",
+		"es": "Aprende en público utilizando Pull Requests"
+	},
 	"slug" : "learn-in-public",
     	"visibility": "internal",
 	"status": "published",
@@ -9,6 +12,9 @@
 	"translations": ["us","es"],
 	"technologies": ["markdown", "yml", "git", "github"],
 	"synxtax": "markdown",
-	"description" : "Build the first version of your student external profile that recruiters will see",
+	"description" : {
+		"us": "Build the first version of your student's external profile that recruiters will see",
+		"es": "Construye la primera versión del perfil externo de tus estudiantes que verán los reclutadores."
+	},
 	"talents": []
 }
