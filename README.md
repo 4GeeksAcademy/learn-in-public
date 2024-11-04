@@ -1,4 +1,4 @@
- # Learn In Public (for introverts and extroverts)
+ # WELCOME!! Learn In Public (for introverts and extroverts)
 
 > 🚨 Important information for the teachers, [please read this if you are a teacher](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
 
