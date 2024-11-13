@@ -67,7 +67,7 @@ Tu perfil debe verse como el siguiente:
 </p>
 
 <p align="center">
-  <a href="https://sep.4geeksacademy.com/84mulville/profile?lang=en&theme=white" target="_blank">Clic para ver Demo</a>
+  <a href="" target="_blank">Clic para ver Demo</a>
 </p>
 
 ## Completando el archivo YML
