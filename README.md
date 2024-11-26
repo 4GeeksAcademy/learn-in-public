@@ -93,4 +93,7 @@ template: "online-cv"
 skin: "blue"
 ```
 
+In the journey of building your professional profile and taking your first steps into the world of coding, remember that learning in public is a valuable practice for both introverts and extroverts alike. Whether you prefer to quietly absorb knowledge or thrive in the spotlight of collaboration, the act of sharing your progress, contributing to projects, and embracing the GitHub community is a transformative experience. It's not just about coding; it's about your growth as a developer and your journey towards becoming a part of something bigger. Embrace this opportunity, for it's the first step towards your future in tech. 🌟
+
+
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
