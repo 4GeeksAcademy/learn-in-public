@@ -2,7 +2,7 @@
  
 > 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
  
-Las contribuciones son el pan y la mantequilla de GitHub, el objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
+Las contribuciones son el pan de cada día de GitHub, el objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
 
