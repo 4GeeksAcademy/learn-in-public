@@ -1,0 +1,31 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Mateo
+  last_name: Sanchez
+  summary: |
+    me gradué con honores del colegio, hice el Oxford test el cual me 
+    certifico con un B2 en ingles ósea el nivel mas alto que hay en el
+    Test apenas salí del colegio empecé a tomar un curso de programación
+    el cual en 4 meses me daría todas las herramientas para empezar a 
+    trabajar como programador 
+  email: a@a.com
+  phone: 234 2342 342
+  website: asd.com
+  linkedin: alandoe
+  github: Mateo
+  twitter: webjeda
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: professional
+    - idiom: Spanish
+      level: Native
+  interests:
+    - item: Videogames
+    - item: Volley
+    - item: Ping pong
+
+
+   
