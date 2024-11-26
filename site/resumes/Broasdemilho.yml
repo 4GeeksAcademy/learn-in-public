@@ -1,0 +1,81 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Nuno 
+    last_name: Costa
+    
+    # Define yourself in 4-5 words
+    motto: There's only so many weekends.
+    
+    # focus
+    focus: Being dope
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      I have a insatiable curiosity for anything that i'm interested. At this moment it's coding/web-development. Who knows what's next...
+
+      Second paragraph if required.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://images.pexels.com/photos/1670413/pexels-photo-1670413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+    # Contact Information
+    email: nuno.f.l.p.costa@gmail.com
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Broasdemilho
+    
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: Spanish
+        level: Professional
+
+    # Interests or hobies
+    interests:
+      - item: Climbing
+
+      - item: Skiing
+
+      - item: Gaming
+
+# Your previous education
+education:
+    - degree: Touristic information
+      university: Escola Superior de Hotelaria e Turismo do Estoril
+      # optional
+
+      time: 2017 - 2020
+
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Hotel Receptionist
+      time: 2021 - Present
+      company: Dear Lisbon Hotels
+      # optional
+
+
+
+
+# Your project portfolio
+
+
+skills:
+    toolset:
+
+      - name: HTML5 & CSS
+        level: 20%
