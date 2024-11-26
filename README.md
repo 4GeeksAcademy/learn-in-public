@@ -22,7 +22,7 @@ During this project, you will start building your professional profile, one of t
   
 Open this [Student Showcase](https://sep.4geeksacademy.com/) (still in beta): Here you can find the list of some students that have their profile already built, you can also click around each student to find their public information (GitHub profile, Twitter usernames, Linkedin profiles, etc.).
   
-Don't worry about the content of your profile, today its just about the YML structure and making sure you show up on the [students list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
+Don't worry about the content of your profile, today it's just about the YML structure and making sure you show up on the [students list](https://sep.4geeksacademy.com/), later you can do more updates to your profile.
 
 ## How to build your own profile inside the Student Showcase?
 
