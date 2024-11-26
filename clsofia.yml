@@ -1,0 +1,126 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Cláudia
+    last_name: Diogo
+    
+    # Define yourself in 4-5 words
+    motto: No on e knows what tomorrow bring
+    
+    # focus
+    focus: Having fun
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      I intend to learn more and expand.
+I am versatile, my professional path is quite diverse, providing me with the ability to easily adapt to the most varied professional contexts and to quickly learn new skills, if necessary.
+I developed an excellent oral and written communication skills, as well as organizational and planning skills during my career.
+
+      Second paragraph if required.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: sofiasaldiogo@gmail.com #optional
+    phone: 966707201 #optional
+    linkedin: https://pt.linkedin.com/in/cl%C3%A1udia-diogo-a3034135 #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: example
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+        - idiom: Spanish
+        level: Professional
+
+    # Interests or hobies
+    interests:
+      - item: Yoga
+
+      - item: Mini golf
+
+      - item: Cooking
+
+# Your previous education
+education:
+    - Master degree: Museology
+      university: ISCTE
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2008 - 2010
+      details: |  
+      Creation of content for exibitions
+
+          - Bullet point
+          - Bullet point
+
+    - degree: History
+      university: ISCTE
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2000 - 2004
+      details: |
+        Historical investigation
+
+          - Bullet point
+          - Bullet point
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Reservations Agent
+      time: 2022 - Present
+      company: NH Hotels, Lisbon
+      # optional
+      company_logo: 
+      details: |
+        Managing SAP to do reservations in several NH hotels in Europe.
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Future information
+        # optional
+        project_logo: https://
+        link: ""
+        tagline: "Description"
+
+    
+
+skills:
+    toolset:
+
+
+      - name: HTML5 & CSS
+        level: 75%
+
+   
