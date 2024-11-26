@@ -50,7 +50,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   `$ git push origin master`
   
-5. Volver a [GitHub](https://github.com) y buscar el repositorio creado recientemente. En él encontrarás un botón para hacer "Pull Request" a tus cambios nuevamente al repositorio principal.
+5. Vuelve a [GitHub](https://github.com) y buscar el repositorio creado recientemente. En él encontrarás un botón para hacer "Pull Request" a tus cambios nuevamente al repositorio principal.
 
 
   ![botón de pull request](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
