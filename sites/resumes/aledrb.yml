@@ -1,0 +1,23 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+name: Alejandra Del Rio
+tagline: Aprendiendo de todo un poco
+
+email: alejandradrb@gmail.com
+linkedin: https://www.linkedin.com/in/alejandra-del-rio-bracho-30262b14b/
+github: aledrb
+
+languages:
+ - idiom: English
+   level: B2
+
+Education: 
+- Comunicación Social
+- Diplomado Gestión de Hoteles y Posadas
+- Curso de Inglés Avanzado
+
+Experiences: 
+- Personal Docente de Inglés (The Language College)
