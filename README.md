@@ -4,8 +4,8 @@
 
 Contributions are GitHub's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
 
-<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
- 
+<p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="500" /></p>
+ hello wordl
 ## The Pull Request
 
 Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
