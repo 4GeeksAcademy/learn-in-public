@@ -9,6 +9,8 @@
 	"preview": "https://github.com/4GeeksAcademy/learn-in-public/blob/master/preview.jpg?raw=true",
 	"duration" : 1,
 	"difficulty": "easy",
+	"projectType": "project",
+	"autoPlay": "false",
 	"translations": ["us","es"],
 	"technologies": ["markdown", "yml", "git", "github"],
 	"synxtax": "markdown",
