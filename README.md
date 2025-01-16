@@ -55,7 +55,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   ![pull request button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
 
 
-After completing the PR (Pull Request) the application will automatically generate your own student portfolio, to see it, see if your name appears here: 
+After completing the PR (Pull Request) the application will automatically generate your own student portfolio, to see it click the link below: 
 
 **[https://sep.4geeksacademy.com](https://sep.4geeksacademy.com/)**
 
