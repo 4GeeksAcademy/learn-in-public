@@ -3,7 +3,7 @@
 		"us": "Learn in Public using Pull Requests",
 		"es": "Aprende en público utilizando Pull Requests"
 	},
-	"slug" : "learn-in-public",
+	"slug": "learn-in-public",
     	"visibility": "internal",
 	"status": "published",
 	"preview": "https://github.com/4GeeksAcademy/learn-in-public/blob/master/preview.jpg?raw=true",
@@ -13,8 +13,11 @@
 	"technologies": ["markdown", "yml", "git", "github"],
 	"synxtax": "markdown",
 	"description" : {
-		"us": "Build the first version of your student's external profile that recruiters will see",
-		"es": "Construye la primera versión del perfil externo de tus estudiantes que verán los reclutadores."
+		"us": "Build the first version of your professional student profile for recruiters to see! Learn GitHub’s pull request process while creating a YAML file with your details, such as education, skills, projects, and experience. This step is essential in crafting your public portfolio as a developer.",
+		"es": "¡Construye la primera versión de tu perfil profesional de estudiante para que lo vean los reclutadores! Aprende el proceso de solicitud de GitHub mientras creas un archivo YAML con tus datos, como formación, habilidades, proyectos y experiencia. Este paso es esencial en la elaboración de tu cartera pública como desarrollador."
 	},
+	"telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=253"
+    },
 	"talents": []
 }
