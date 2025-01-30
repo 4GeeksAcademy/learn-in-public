@@ -1,4 +1,5 @@
 {
+	"gitpod": true,
 	"title" : {
 		"us": "Learn in Public using Pull Requests",
 		"es": "Aprende en público utilizando Pull Requests"
