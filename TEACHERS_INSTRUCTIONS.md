@@ -6,7 +6,7 @@ This project is called **Learn in Public** because the academy believes that lea
 
 In an effort to apply the [Learn In Public methodology](https://www.swyx.io/learn-in-public/), this project asks the students for the first time to create a pull request.
 
-We have a bot that reviews that the pull requests are in good shape, but GitHub has blocked this bot to run in first time contributors.
+We have a bot that reviews that the pull requests are in good shape, but GitHub has blocked this bot from running for first time contributors.
 
 That is why the bot is not able to approve and merge the students' PR's and you as a teacher will have to take a small action.
 
