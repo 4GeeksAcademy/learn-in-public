@@ -2,13 +2,13 @@
  
 > 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
  
-Las contribuciones son el pan y la mantequilla de GitHub, el objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
+Las contribuciones son esenciales en GitHub, su objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
 
 ## El Pull Request
 
-Git ofrece una forma de insertar código en un repositorio sin poseerlo, o incluso ser invitado a él, se llama `Pull Request` y el objetivo principal de este ejercicio es crear tu primer `Pull Request`. [Aquí un video de 12min explicando pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git ofrece una forma de insertar código en un repositorio sin necesidad de poseerlo ni ser invitado a colaborar en él. Esto se llama Pull Request. Y el objetivo principal de este ejercicio es crear tu primer `Pull Request`. [Aquí un video de 12min explicando pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Tu Perfil Público
 
