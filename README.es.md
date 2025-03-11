@@ -1,6 +1,6 @@
- # Aprende en Público (para introvertidos y extrovertidos)
+ # Aprende en Público (para personas introvertidas y extrovertidas)
  
-> 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
+> 🚨 Información importante para los profesores/as, [por favor lee esto si eres profesor/a](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
  
 Las contribuciones son el pan y la mantequilla de GitHub, el objetivo principal. Es hora de comenzar tu primera contribución en GitHub. 
 
@@ -14,9 +14,9 @@ Git ofrece una forma de insertar código en un repositorio sin poseerlo, o inclu
 
 Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
 
-- Será la primera versión de tu portafolio de desarrollador.
+- Será la primera versión de tu portafolio de desarrollador/a.
 
-- Será la primera versión de tu currículum (como un desarrollador).
+- Será la primera versión de tu currículum (como un desarrollador/a).
 
 - Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
 
@@ -32,7 +32,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   Se creará un nuevo repositorio en tu cuenta.
   
-2. Abre tu nuevo repositorio (fork) con un entorno de desarrollo como Codespaces o Gitpod (pregúntale a tu maestro cómo abrir tu fork si no lo sabes).
+2. Abre tu nuevo repositorio (fork) con un entorno de desarrollo como Codespaces o Gitpod (pregúntale a tu maestro/a cómo abrir tu fork si no lo sabes).
   
 3. En tu Codespace, crea un archivo `<your_github_username>.yml` dentro de `/site/resumes/` con tu información de perfil.
 
@@ -93,4 +93,4 @@ template: "online-cv"
 skin: "blue"
 ```
 
-Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos/as de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
