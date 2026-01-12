@@ -1,0 +1,24 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: Consulting Fernandez
+  profession: Student Developer
+  location: Spain
+  email: your@email.com
+  github: consultingafernandez-hub
+
+education:
+  - degree: Bootcamp Student
+    institution: 4Geeks Academy
+    year: 2026
+
+experiences: []
+
+projects: []
+
+skills:
+  - skill: Git
+    level: 30
+  - skill: GitHub
+    level: 30
