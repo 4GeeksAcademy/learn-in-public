@@ -1,0 +1,26 @@
+template: online-cv
+skin: blue
+
+basic_info:
+  first_name: Jorge
+  last_name: Otero
+  motto: "Aprendiendo en público con 4Geeks Academy"
+  avatar: "https://github.com/Jorgeotero1998.png"
+  email: jorgotero4@gmail.com
+  linkedin: tu-perfil-linkedin
+  github: Jorgeotero1998
+  summary: Hola, soy Jorge y estoy empezando mi camino como desarrollador.
+
+education:
+  - degree: Full Stack Developer
+    university: 4Geeks Academy
+    time: 2024 - Presente
+    details: Aprendiendo tecnologías web modernas.
+
+skills:
+  - name: HTML/CSS
+    percentage: 50
+  - name: JavaScript
+    percentage: 30
+  - name: PowerShell
+    percentage: 40
