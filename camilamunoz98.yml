@@ -1,0 +1,70 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Maria
+  last_name: Munoz
+  motto: I like travelling
+  focus: Growing professional
+  summary: >
+    I am a Chemical Enginer and Data Science student passionate about learning how to analyse
+    data and solve problems using Python. I am currently developing my skills in data analysis, statistics, and programming while building projects and growing in the tech field.
+  email: camilamu98@gmail.com
+  phone: null
+  website: asd.com
+  linkedin: www.linkedin.com/in/maría-camila-muñoz-obregón-14b4312aa
+  github: example
+  twitter: null
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: B2
+  interests:
+    - item: Reading
+    - item: Exercise
+    - item: Cooking
+education:
+  - degree: Bachelor Chemical Engineering
+    university: University of America
+    university_logo: null
+    details: |
+  -degree: Data Science Student
+    university: 4Geeks Academy
+
+experiences:
+  - role: Instrumental and Quality Control Analyst
+    time: 2022 - 2023
+    company: Brenntag, Colombia
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: Performed physicochemical analyses of raw materials and finished
+      products.Calibrated and maintained laboratory equipment.Coordinated with
+      R&D; and production teams to optimise processes and results.
+  - role: Laboratory Analyst
+    time: 2021 - 2022
+    company: Brenntag, Colombia
+    company_logo: null
+    details: Performed physicochemical analyses of raw materials and finished
+      products.Calibrated and maintained laboratory equipment.Coordinated with
+      R&D; and production teams to optimise processes and results.
+projects:
+  intro: null.
+  assignments:
+    - title: null
+      project_logo: null
+ skills:
+  toolset:
+    - name: Python & Django
+      level: null
+    - name: JavaScript & jQuery
+      level: null
+    - name: Angular
+      level: null
+    - name: HTML5 & CSS
+      level: null
+    - name: Ruby on Rails
+      level: null
+    - name: Sketch & Photoshop
+      level: null
+    
