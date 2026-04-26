@@ -24,7 +24,7 @@ Este [Student Showcase](https://sep.4geeksacademy.com/) todavía está en versi�
 
 No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructura YML y de asegurarse de aparecer en la [lista de estudiantes](https://sep.4geeksacademy.com/), luego puedes hacer más actualizaciones para tu perfil.
 
-## ¿Cómo construir tu propio perfil dentro del Student Showcase?
+## ¿Cómo construir tu propio perfil dentro de los proyectos de estudiantes?
 
 1. Haz Fork de [este repositorio](https://github.com/4GeeksAcademy/4GeeksAcademy).
 
