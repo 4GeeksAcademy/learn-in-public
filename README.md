@@ -2,6 +2,8 @@
 
 > 🚨 Important information for the teachers, [please read this if you are a teacher](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
 
+> ⚠️ DISCLAIMER: **Student**, this is a public repository. Any information you add to this repository will also be public. Do not include any real confidential data that you do not wish to make public. Instead, use fictitious data.
+
 Contributions are GitHub's bread-and-butter, the main purpose. It's time to start your first GitHub contribution. 
 
 <p align="center"><img src="https://github.com/4GeeksAcademy/learn-in-public/blob/master/resume.png?raw=true" height="400" /></p>
