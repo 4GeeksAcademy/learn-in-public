@@ -1,0 +1,85 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Fernando
+    last_name: Salamanca Martelo
+    
+    # Define yourself in 4-5 words
+    motto: fail until you suceed.
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: Microsoft Professional Support agent for the Domain Services / Networking areas. Music composer with a passion for all things technology, martial arts, and physical training. I am really interested in Blockchain development, specially the smart-contracts area in Decentraliced Finance.   
+    # Your profile picture URL 
+    profile pic url: https://avatars.githubusercontent.com/u/67641798?v=4
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    
+    # Contact Information
+    email: lfernandosalamanca@gmail.com 
+    phone: +34 655 544 114
+    linkedin: Fernando Salamanca 
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: FerMusicComposer
+    
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: C2
+
+    # Interests or hobies
+    interests:
+      - item: Contact sports and weightlifting 
+
+      - item: Music production, arrangement, orchestration and composition.
+
+      - item: Technology in general with special interest in blockchain and A.I.
+
+# Your previous education
+education:
+    - degree: Music Composition
+      university:  Escuela TAI, Madrid
+      time: 2015 - unfinished
+
+    - degree: 4Geeks Full-Stack developer bootcamp
+      university: 4Geeks Academy
+      time: 2021
+    
+# Your previous job experiences or voluntier
+experiences:
+    - role: Microsoft Professional Support
+      time: Nov 2020 - currently working there
+      company: Concentrix Corporation
+      details: |
+       - Level 3 + support for Windows platforms in the Domain Services and Networking areas.
+       - Problem solving skills. System logs analysis
+       - Advice customers in the best practices for their implementations.
+
+
+skills:
+    toolset:
+      - name: HTML5 & CSS
+        level: 60%
+      
+      - name: Bootstrap
+        level: 60%
+
+      - name: Javascript
+        level: 50%
+
+      - name: NodeJS
+        level: 25%
+
