@@ -64,7 +64,7 @@ After completing the PR (Pull Request) the application will automatically genera
 Your profile should look like the following:
 
 <p align="center">
-  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-resume-png">
+  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-resume-png?raw=true">
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ skills: List your skills with a percentage of expertise.
 
 
 <p align="center">
-  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png">
+  <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-png?raw=true">
 </p>
 
 You can pick a different template and skin, for example:
