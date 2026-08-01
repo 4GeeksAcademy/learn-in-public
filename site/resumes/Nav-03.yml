@@ -1,0 +1,161 @@
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Jorge
+    last_name: Gabrie
+    
+    # Define yourself in 4-5 words
+    motto: insatiable thirst for knowledge
+    
+    # focus
+    focus: Software Development
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: navil.gabrie@gmail.com #optional
+    phone: 786 332 8707 #optional
+    website: asd.com #optional
+    linkedin: https://www.linkedin.com/in/navil-gabrie-47282a82 #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: example
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Professional
+
+    # Interests or hobies
+    interests:
+      - item: Gaming/Simulation
+
+      - item: Nature
+
+      - item: Military
+
+# Your previous education
+education:
+    
+      university: Miami Dade College
+      # optional
+      university_logo: https://miami.makerfaire.com/wp-content/uploads/sites/27/2019/02/mdc-logo.jpg
+      time: 2008 - 2009
+      details: |
+       Studied pre-requisite courses for mechanical engineering
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Apple Genius
+      time: 2013 - 2021
+      company: Apple
+      # optional
+      company_logo: https://image.shutterstock.com/image-photo/valencia-spain-march-05-2017-260nw-593485994.jpg
+      details: |
+        As an employee for apple as a Genius I have cemented their work ethics and company standards into my personal and professional life. I have worked as a technician since date of hire and have assisted in daily operations, diagnostics and repair of in-house systems as well as customers personal devices. I am in charge of diagnosing and repairing customer devices as well as maintaining relations to Apple.I pride in being able to put the
+        customer first and ensuring all processes are completed to the highest standards. 
+
+    - role: Manager/Lead tech
+      time: 2012 - 2014
+      company: iPhoneFactory
+      # optional
+      
+      details: |
+        Rafael Hasic and myself started this company, he provided the funds and I provided the expertise and customer
+        service aspect. I have over 10 years experience in diagnosing and repairing technical and mechanical equipment.I worked on all electronics from diagnostics to repair and conducted them myself as well as delegated work to
+        employees. Since it was a start up company I had to create all store policy that are still effective to this day and
+        maintain all aspects of business while Rafael would handle inventory acquisition and bulk sales. 
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
