@@ -1,0 +1,56 @@
+--- 
+basic_info: 
+  avatar: "https://randomuser.me/api/portraits/women/24.jpg"
+  email: a@a.com
+  first_name: matias
+  focus: "being better"
+  interests: 
+    - 
+      item: soccer
+  languages: 
+    - 
+      idiom: English
+      level: intermediate
+    - 
+      idiom: Spanish
+      level: native
+  last_name: chirikiles
+  linkedin: alandoe
+  motto: "I like saving the world"
+  phone: "234 2342 342"
+  summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+  website: asd.com
+education: 
+  - 
+    degree: ~
+experiences: 
+  - 
+    role: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps\""
+skills: 
+  toolset: 
+    - 
+      level: 98%
+      name: "Python & Django"
+    - 
+      level: 98%
+      name: "Javascript & jQuery"
+    - 
+      level: 98%
+      name: Angular
+    - 
+      level: 95%
+      name: "HTML5 & CSS"
+    - 
+      level: 85%
+      name: "Ruby on Rails"
+    - 
+      level: 60%
+      name: "Sketch & Photoshop"
+skin: blue
+template: online-cv
