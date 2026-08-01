@@ -1,0 +1,25 @@
+template: "online-cv"
+skin: "pink"
+
+basic_info:
+
+name: Lilliana Castro Chacón
+tagline: Aprendiz en serie
+
+email: lillianacc@uned.cr
+phone: 8372-2238
+linkedin: https://www.linkedin.com/in/lillianacc/
+github: lilliana098
+
+languages:
+ - idiom: English
+   level: B2
+
+Education: 
+- Bibliotecología y Nuevas Tecnologías de Información y Comunicación
+- Administración de Empresas
+
+Experiences: 
+- Billing Agent (DHL)
+- Digitadora (Caerula Swimwear)
+- Bibliotecóloga (SINABI)
