@@ -1,0 +1,21 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info: 
+        name: CristopherRuiz Rsquivel
+        age: 25
+        number: 89410484
+        email: cris-nando01@hotmail.com
+        github: Cris010411
+education: Bachiller Educacion Media(Liceo de Paraiso)
+          Bachiilerato en Ingenieria de Sistemas
+          Licenciatura en Ingenieria de Sistemas
+experiences: Digitador de datos(creacion de una base de datos de informacion)
+projects: Creacion de una pagina para realizar preguntas de logica matematica usando react y python.
+          Creacion de una pagina web para observar el menu de un restaurante y realizar pedidos usando HTML, CSS Y JS
+skills: 
+        HTML
+        CSS
+        JAVASCRIPT
+        REACT
+        PYTHON
