@@ -1,0 +1,42 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: "Dorota Niemiec"
+  tagline: "Estudiante de Data/Python · TCAE en formación"
+  github: "dori1888"         # tu usuario de GitHub
+  email: "tu-email@ejemplo.com"
+  linkedin: "https://www.linkedin.com/in/tu-perfil"
+  # avatar: profile.png      # opcional si subes imagen a assets/img/
+
+languages:
+  - idiom: "Español"
+    level: "Avanzado"
+  - idiom: "Polaco"
+    level: "Nativo"
+  - idiom: "Inglés"
+    level: "Básico"
+
+education:
+  - degree: "Técnico en Cuidados Auxiliares de Enfermería (en curso)"
+    institution: "Medac"
+    time: "2023–Actualidad"
+  - degree: "Gestión Administrativa (FP)"
+    institution: "Cesur"
+    time: "2024"
+  - degree: "Data Science & Machine Learning"
+    institution: "4Geeks Academy"
+    time: "2025"
+
+skills:
+  - name: "Python"
+    level: 60
+  - name: "Pandas"
+    level: 50
+  - name: "Git/GitHub"
+    level: 50
+
+projects:
+  - name: "Analizador de ventas mensuales"
+    description: "Funciones en Python: totales, promedios, mejor día, umbral y producto top."
+    url: "https://github.com/dori1888/dn"
