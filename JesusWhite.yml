@@ -1,0 +1,27 @@
+basic_info:
+  first_name: Jesus
+  last_name: Blanco
+  summary: Estudiante de programación aprendiendo data y ml y mejorando poco a poco con proyectos prácticos.
+  github: JesusWhite
+
+education:
+  - degree: Bootcamp de programación (data y ml)
+    institution: 4Geeks Academy
+
+skills:
+  - name: Python
+    level: 60
+  - name: HTML
+    level: 65
+  - name: CSS
+    level: 55
+  - name: Git
+    level: 50
+
+projects:
+  - name: Perfil en GitHub
+    description: Creación de perfil público usando YAML y Pull Requests
+
+experiences:
+  - role: Estudiante
+    company: 4Geeks Academy
