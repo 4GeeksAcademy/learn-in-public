@@ -14,13 +14,14 @@ Git ofrece una forma de insertar código en un repositorio sin poseerlo, o inclu
 
 ## Tu Perfil Público
 
-Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
+Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes alcanzar en la academia, ya que:
 
-- Será la primera versión de tu portafolio de desarrollador.
+Será la primera versión de tu portafolio como desarrollador.
 
-- Será la primera versión de tu currículum (como un desarrollador).
+Será la primera versión de tu currículum (enfocado en desarrollo).
 
-- Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
+Proporcionará mayor contexto sobre tu experiencia de aprendizaje: podrás visualizar una tabla con todo lo que aprenderás a lo largo del curso.
+
 
 Este [Student Showcase](https://sep.4geeksacademy.com/) todavía está en versión beta. Puedes encontrar la lista de estudiantes que ya tienen su perfil creado, también puedes hacer clic alrededor de cada estudiante para encontrar su información pública (perfil de GitHub, nombres de usuario de Twitter, perfiles de Linkedin, etc.).
 
@@ -52,17 +53,17 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   
   `$ git push origin master`
   
-5. Volver a [GitHub](https://github.com) y buscar el repositorio creado recientemente. En él encontrarás un botón para hacer "Pull Request" a tus cambios nuevamente al repositorio principal.
+5. Regresa a [GitHub](https://github.com) y busca el repositorio que creaste recientemente. Dentro de él, encontrarás un botón para realizar un "Pull Request" y enviar tus cambios al repositorio principal.
 
 
   ![botón de pull request](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/pull_request_button.png?raw=true)
   
 
-Después de completar el PR (Pull Request), la aplicación generará automáticamente tu propio portafolio de estudiante, para verlo, verifica si tu nombre aparece aquí:
+Una vez que hayas completado el PR (Pull Request), la aplicación generará automáticamente tu portafolio de estudiante. Para verlo, verifica si tu nombre aparece en el siguiente enlace:
 
 **[https://sep.4geeksacademy.com](https://sep.4geeksacademy.com)**
 
-Tu perfil debe verse como el siguiente:
+Tu perfil debería verse similar a este:
 
 <p align="center">
   <img height="350" src="https://breathecode.herokuapp.com/v1/media/file/preview-resume-png">
