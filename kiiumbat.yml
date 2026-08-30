@@ -1,0 +1,106 @@
+
+
+
+Template: "online-cv"
+skin: "green"
+
+  #Informacion personal
+  basic_info:
+
+  Nombre: Marc
+  Apellidos: Caritg Puiggros
+
+# Defínete en 4-5 palabras
+  Soy una persona introvertida
+
+Focus:
+Enfocarme en aprender lo maximo en programación tanto dentro de bootcamp como por fuera
+
+# Tienes 1 párrafo para causar una gran impresión, resume tu carrera
+
+Empeze a estudiar infrmatica a los 18, lo tuve que dejar porque tenia que trabajar 12 horas y era incompatible con el estudio.
+eh pasado por muchos sectores desde comercial a jefe de cocina en un restaurante o teleoperador donde trabajo actualmente
+nunca me han despedido de un siteo eh sido yo el que se a ido para intentar mejorar mi nivel de vida, aunque aveces me equivoque.
+actualmente estoy en el bootcamp de 4 geeks full stack donde quiero salir sabiendo lo maximo que me puedan enseñar.
+
+
+      Second paragraph if required.
+
+
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://postimg.cc/947Hkryb
+
+    #Información de personal
+    email: Marccaritg@gmail.comercial
+    Telefono: +34 628477864
+    linkedin: https://www.linkedin.com/in/marc-caritg-puiggros-a395333a6/
+
+
+    Github: https://github.com/kiiumbat
+
+    Twitter: https://x.com/thekiumbat
+
+    # aptitudes
+    Lenguas
+      - Catalan
+      - Nativo
+
+      - Esàñol
+      - Nativo
+
+      - Ingles
+      - Bajo
+
+    #intereses
+
+  - item: Gaming
+
+  - item: Peliculas
+
+  - item: Tecnologia
+
+
+  # Estudios
+    -
+    - Medio ciclo de Técnico en Sistemas Microinformáticos y Redes (SMR).
+    -Titulo de IFCD94 Herramientas dek big data y gobierno de datos.
+
+  # Experiencia
+  Operador telefónico
+  Konecta · Jornada completa
+  feb. 2023 - actualidad
+
+  
+  Jefe de Cocina
+  ruben lazaro godoy · Jornada completa
+  mar. 2022 - sept. 2022 
+
+  
+  Dependiente
+  Vodafone · Jornada completa
+  nov. 2019 - sept. 2020
+
+   
+  Comercial 
+  REMAKER SYSTEM SL · Jornada completa
+  ene. 2017 - jul. 2019 ·
+         
+       
+  
+  Autonomo comercial
+  Jornada completa
+  ago. 2016 - may. 2019 · 2 año
+
+
+
+  Skills:
+      toolset:
+        - name: HTML
+          level: 90%
+
+        -name: Css
+         level: 90%
+
+        -name: JavaScript
+         level:60%
