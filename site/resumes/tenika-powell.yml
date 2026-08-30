@@ -1,0 +1,37 @@
+# 💡 I’m passionate about helping people, solving problems, and creating experiences that make a difference—whether in healthcare, customer service, or through data-driven innovation.
+
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: Tenika Powell
+  email: powell.tenika.n@gmail.com
+  github: https://github.com/Nikkilabesf
+  location: Benton Harbor, MI, United States
+  phone: 269-224-2915
+
+career_profile: |
+  I am a dedicated professional eager to build my developer portfolio. I am passionate about learning and growing my skills to contribute meaningfully in the tech space.
+
+skills:
+  - name: Customer Service
+    level: Expert
+    percentage: 90
+  - name: Health Information Management
+    level: Intermediate
+    percentage: 75
+  - name: Data Analysis
+    level: Beginner
+    percentage: 60
+  - name: Python Programming
+    level: Beginner
+    percentage: 50
+
+career_goals: |
+  To develop and enhance my skills in software development and data analysis, contributing to impactful projects and continuous learning.
+
+vertical_banner:
+  email: powell.tenika.n@gmail.com
+  github: https://github.com/Nikkilabesf
+  location: Benton Harbor, MI, United States
+  phone: 269-224-2915
