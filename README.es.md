@@ -1,5 +1,4 @@
- # Aprende en Público (para introvertidos y extrovertidos)
- 
+ # Aprende en Público (para introvertidos y extrovertidos)✌🏼 
 > 🚨 Información importante para los profesores, [por favor lee esto si eres profesor](https://github.com/4GeeksAcademy/learn-in-public/blob/master/TEACHERS_INSTRUCTIONS.md).
 
 > ⚠️ AVISO LEGAL: **Estudiante**, este es un repositorio público. La información que añadas a este repositorio también será pública. No incluyas datos confidenciales reales que no quieras hacer públicos. En su lugar, incluye datos ficticios.
