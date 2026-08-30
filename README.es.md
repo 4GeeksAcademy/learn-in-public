@@ -46,7 +46,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
 
 4. Commit y push a tus cambios.
 
-  `$ git add .`
+  `$ git add site/resumes/tucv.yml`
   
   `$ git commit -m "mi perfil"`
   
